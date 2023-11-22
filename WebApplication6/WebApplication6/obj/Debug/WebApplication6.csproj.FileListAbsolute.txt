@@ -1,0 +1,228 @@
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\csc.exe
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\csc.exe.config
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\csc.rsp
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\csi.exe
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\csi.exe.config
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\csi.rsp
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.AppContext.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Console.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Security.Claims.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\vbc.exe.config
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\vbc.rsp
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.Helpers.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.Mvc.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.Razor.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.WebPages.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\WebGrease.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.Helpers.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.Mvc.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.Optimization.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.Razor.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.WebPages.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojAssemblyReference.cache
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CopyComplete
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\Semih-Pc\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\csc.exe
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\csc.exe.config
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\csc.rsp
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\csi.exe
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\csi.exe.config
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\csi.rsp
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.AppContext.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Console.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.IO.Compression.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Security.Claims.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.ValueTuple.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\vbc.exe.config
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\vbc.rsp
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.Helpers.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.Mvc.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.Razor.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.WebPages.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\WebGrease.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.Helpers.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.Mvc.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.Optimization.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.Razor.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.WebPages.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.AssemblyReference.cache
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CopyComplete
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\mert-\OneDrive\Masaüstü\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\WebApplication6.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\csc.exe
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\csc.exe.config
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\csc.rsp
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\csi.exe
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\csi.exe.config
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\csi.rsp
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.AppContext.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Console.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.IO.Compression.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.IO.Pipes.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Security.AccessControl.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Security.Claims.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.ValueTuple.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XPath.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\vbc.exe.config
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\vbc.rsp
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.Helpers.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.Mvc.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.Razor.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.WebPages.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\WebGrease.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.Helpers.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.Mvc.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.Optimization.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.Razor.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.WebPages.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\Antlr3.Runtime.pdb
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.AssemblyReference.cache
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CopyComplete
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+D:\Yeni klasör (2)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
